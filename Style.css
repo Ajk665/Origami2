@@ -1,0 +1,21 @@
+.header{
+
+    background: cadetblue;
+    display: flex;
+    justify-content: center;
+
+}
+.content{
+
+    background: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.img{
+
+    background: black;
+    display: flex;
+    justify-content: center;
+
+}
